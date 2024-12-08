@@ -1,6 +1,6 @@
 # Exploring Public Safety: The City of Calgary Crime Analysis Report
 ## Overview
-This dashboard provides a comprehensive analysis of crime trends in the City of Calgary, Alberta, filter for the year 2017. It incorporates key insights and visualizations that aid in understanding crime patterns across different sectors and wards, as well as their relationship to population data.
+This report provides a comprehensive analysis of crime trends in the City of Calgary, Alberta, filter for the year 2017. It incorporates key insights and visualizations that aid in understanding crime patterns across different sectors and wards, as well as their relationship to population data.
 
 ## Key Metrics Analyzed
 1. **Total Crime Count**: Number of crimes reported in the City of Calgary in 2017.
