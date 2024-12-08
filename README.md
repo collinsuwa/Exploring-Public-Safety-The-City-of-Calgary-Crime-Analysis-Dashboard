@@ -9,6 +9,7 @@ This dashboard provides a comprehensive analysis of crime trends in the City of 
 4. **Councillor Wards with the Highest Crime Rate**: Identification of wards with the highest crime rates.
 5. **Top 10 Communities by Crime Count**: Communities with the highest crime counts in 2017.
 6. **Trends Over Time**: Crime count trends over the years and months.
+7. **Crime Categories with the Highest Total Crime Counts (2017)**
 
 ## Slicers
 - **Sector**: Filter data by sectors.
@@ -26,6 +27,9 @@ This dashboard provides a comprehensive analysis of crime trends in the City of 
   - Downtown Commercial Core: 53,648 crimes.
 - **Monthly Crime Trends**:
   - From 2012 to 2017, the month of **July** consistently recorded the highest total crime counts.
+- **Top Crime Categories in 2017**:
+   - Social Disorder: 90,469 incidents.
+   - Theft From Vehicle: 11,150 incidents.
 
 ## Dashboard Features
 The dashboard provides:
@@ -43,12 +47,12 @@ This dashboard is designed for:
 - Residents seeking transparency in crime statistics.
 - Researchers studying urban crime trends.
 
-## Future Improvements
-- Incorporate real-time data updates.
-- Analyze additional factors influencing crime rates, such as economic indicators.
-- Provide predictive analytics for future crime trends.
-
 ## Tools Used
-- API
-- Microsoft Power BI
-- Microsoft Powerpoint 
+- **Data Extraction**: Data source provided by the City of Calgary.
+- **Visualization**: Built using Power BI.
+- **Data Processing**: Power Query and DAX formulas were used for calculations and transformations.
+- **Microsoft Powerpoint**: Dashboard layout design 
+
+
+## Conclusion
+This analysis provides actionable insights into crime trends in Calgary, enabling policymakers and stakeholders to target high-crime areas and categories for effective interventions. 
