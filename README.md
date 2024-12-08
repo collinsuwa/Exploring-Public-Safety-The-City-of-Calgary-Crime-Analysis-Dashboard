@@ -47,3 +47,8 @@ This dashboard is designed for:
 - Incorporate real-time data updates.
 - Analyze additional factors influencing crime rates, such as economic indicators.
 - Provide predictive analytics for future crime trends.
+
+## Tools Used
+- API
+- Microsoft Power BI
+- Microsoft Powerpoint 
